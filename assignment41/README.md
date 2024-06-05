@@ -1,4 +1,4 @@
-# Assignment 41 :
+# Assignment 41 : K-Nearest Neighbors (KNN)
 
 ## How to Install
 Run following command :
