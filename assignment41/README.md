@@ -6,4 +6,5 @@ Run following command :
 pip install -r requirments.txt
 ```
 
-## First part :
+## Implement the K-Nearest Neighbors (KNN) algorithm
+In this assignment we use KNN algorithm for 3 classes: Apple🍎 , Banana🍌 , Watermelon🍉
