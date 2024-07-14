@@ -11,8 +11,8 @@ class KNN :
         self.Y_train = y
 
     #distance
-    def euclidean_distances (self , x_1 , x_2) :
-        return np.sqrt (np.sum ((x_1 - x_2)**2))
+    def euclidean_distances (self , x1 , x2) :
+        return np.sqrt (np.sum ((x1 - x2)**2))
 
     #prediction
     def predict (self , X) :
